@@ -38,3 +38,14 @@ MERGE SORT -PROJE 2
 
 
 Big-o gösterimi=> 2^x=n,logn=> O(nlogn) Merge sort
+
+
+
+
+BİNARY SEARCH TREE PROJESİ
+
+                   (7)
+               (5)           (8)
+           (1)    (6)    (3)    (9)
+                (0)           (4)
+                             (2)
