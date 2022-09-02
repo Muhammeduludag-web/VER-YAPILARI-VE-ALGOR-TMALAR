@@ -19,3 +19,22 @@ Dizi sıralandıktan sonra 18 sayısı aranacaksa linear search'e göre average 
 [2,3,5,6,7,9,4,15,8]
 
 [2,3,5,6,7,9,4,15,8]
+
+
+
+MERGE SORT -PROJE 2
+
+[16,21,11,8,12,22]
+
+[16,21,11]     [8,12,22]
+
+[16]  [21,11]      [8]    [12,22]
+
+[16]  [11,21]      [8]     [12,22]
+
+[11,16,21]         [8,12,22]
+
+[8,11,12,16,21,22]
+
+
+Big-o gösterimi=> 2^x=n,logn=> O(nlogn) Merge sort
